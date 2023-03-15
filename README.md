@@ -8,11 +8,11 @@ They have contracted a consulting company to understand the factors on which the
 
 ## Result
 ### Comparision between Training and Testing dataset:
-Train dataset R^2 : 0.826
-Test dataset R^2 : 0.7908
-Train dataset Adjusted R^2 : 0.823
-Test dataset Adjusted R^2 : 0.7828
-Demand of bikes depend on temp, windspeed, yr, season_summer, season_winter, mnth_September, weathersit_Light_Snow , weathersit_Mist
+- Train dataset R^2 : 0.826
+- Test dataset R^2 : 0.7908
+- Train dataset Adjusted R^2 : 0.823
+- Test dataset Adjusted R^2 : 0.7828
+- Demand of bikes depend on temp, windspeed, yr, season_summer, season_winter, mnth_September, weathersit_Light_Snow , weathersit_Mist
 
 As per our final Model, predictor variables that influences the bike booking are:
 Temperature (temp): A coefficient value of ‘0.5527’ indicated that a unit increase in temp variable increases the bike demand ( cnt ) by 0.5527 units.
